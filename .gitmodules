@@ -1,0 +1,3 @@
+[submodule "tpJpa"]
+	path = tpJpa
+	url = git@github.com:AlanArBras/TP2_SIR_JPA.git
