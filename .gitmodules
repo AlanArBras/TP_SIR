@@ -1,3 +1,6 @@
 [submodule "tpJpa"]
 	path = tpJpa
 	url = git@github.com:AlanArBras/TP2_SIR_JPA.git
+[submodule "tp3"]
+	path = tp3
+	url = git@github.com:AlanArBras/TP3_SIR.git
