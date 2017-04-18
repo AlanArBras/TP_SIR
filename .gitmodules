@@ -7,3 +7,6 @@
 [submodule "TP3_SIR_MONGODB"]
 	path = TP3_SIR_MONGODB
 	url = https://github.com/AlanArBras/TP3_SIR_MONGODB
+[submodule "TP7_SIR_ANGULARJS_JPA"]
+	path = TP7_SIR_ANGULARJS_JPA
+	url = https://github.com/AlanArBras/TP7_SIR_ANGULARJS_JPA
