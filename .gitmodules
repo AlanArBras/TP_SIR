@@ -10,3 +10,6 @@
 [submodule "TP7_SIR_ANGULARJS_JPA"]
 	path = TP7_SIR_ANGULARJS_JPA
 	url = https://github.com/AlanArBras/TP7_SIR_ANGULARJS_JPA
+[submodule "TP6_SIR_POKEDEX"]
+	path = TP6_SIR_POKEDEX
+	url = https://github.com/AlanArBras/TP6_SIR_POKEDEX
